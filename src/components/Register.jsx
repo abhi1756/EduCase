@@ -32,7 +32,7 @@ const Register = () => {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="bg-[#eeeff1] border border-gray-200 p-8 rounded-md w-[400px] sm:w-[400px]">
+      <div className="bg-[rgb(244,243,243)] border border-gray-200 p-8 rounded-md w-[400px] sm:w-[400px]">
         <h2 className="text-2xl font-bold text-gray-900 mb-2">Create your PopX account</h2>
         <form className="space-y-4" onSubmit={handleSubmit}>
 

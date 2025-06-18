@@ -5,7 +5,7 @@ const Home = () => {
 
   return (
     <div className="min-h-screen flex items-center justify-center">
-      <div className="w-[360px] min-h-[600px] bg-[rgb(238,239,241)] border-gray-200 rounded-md p-6 flex flex-col justify-end shadow-sm">
+      <div className="w-[360px] min-h-[600px] bg-[rgb(244,243,243)] border-gray-200 rounded-md p-6 flex flex-col justify-end shadow-sm">
         <div className="mt-auto">
           <h2 className="text-2xl font-semibold text-gray-900 mb-2">Welcome to PopX</h2>
           <p className="text-sm text-gray-500 mb-6 leading-tight">

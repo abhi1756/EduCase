@@ -27,7 +27,7 @@ const Signin = () => {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-[#f8f9fb]">
-      <div className="w-[360px] min-h-[600px] bg-[rgb(238,239,241)] border border-gray-200 rounded-md p-6 shadow-sm">
+      <div className="w-[360px] min-h-[600px] bg-[rgb(244,243,243)] border border-gray-200 rounded-md p-6 shadow-sm">
         <h2 className="text-2xl font-semibold text-gray-900 mb-2">Signin to your <br />PopX account</h2>
         <p className="text-sm text-gray-500 mb-6 leading-tight">
           Lorem ipsum dolor sit amet, <br />
